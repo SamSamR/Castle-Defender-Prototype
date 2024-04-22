@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &9054702663145538581
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9054702663145538586}
+  - component: {fileID: 5246700867109541247}
+  m_Layer: 0
+  m_Name: syncStuff
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9054702663145538586
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9054702663145538581}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 884.10205, y: 939.3113, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5246700867109541247
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9054702663145538581}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e5354e7ccae818498d15f6b5cd515f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Building:
+  - {fileID: 6990847218038260646, guid: 38815786831712245bd82abb0e5b57ab, type: 3}
+  - {fileID: 1876674633261617290, guid: 1fe1fbdc58d7e474d87fde20cce768f7, type: 3}
+  - {fileID: 8137121824157254328, guid: 927d749ea0f150643a8241ce5412be57, type: 3}
+  - {fileID: 386498028757815071, guid: 10e9db5bd37e7704184f939b691483f4, type: 3}
+  - {fileID: 4737449232721973086, guid: a138077bceacfe649a598bdf33c29cf2, type: 3}
+  - {fileID: 3883889213798495411, guid: 21dc37a65ae150e4786aa6bc3199eb7f, type: 3}
+  - {fileID: 4636626278829856586, guid: 768ab73fb67e9b243966f95c19cec7fd, type: 3}
+  - {fileID: 5809856046323523303, guid: aac69b4f337891e4f9dad80488d7bed6, type: 3}
+  - {fileID: 4034804042872236855, guid: 9df1299854e0fa9469b3fcb13cfaca7f, type: 3}
+  - {fileID: 2503198056636979907, guid: 6d397e56c0562a744b6830bb82ca0c5e, type: 3}
+  - {fileID: 3782896572226012298, guid: dd3b1bbe126c05d43826b39a48774067, type: 3}
+  EnviroTileMap: {fileID: 0}
+  FloorTileMap: {fileID: 0}
+  tiles: []
+  camera1: {fileID: 0}
+  cameraGroup: {fileID: 0}
+  mouseWorldPOS: {x: 0, y: 0, z: 0}
+  testcube: {fileID: 3883889213798495411, guid: 21dc37a65ae150e4786aa6bc3199eb7f,
+    type: 3}

@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Unit
+  - StoneWallTall
+  - StoneWallShort
+  - WoodWallTall
+  - WoodWallShort
+  - WoodWallOther
+  - DoorWay
+  - WoodDoor
+  - ReEnforcedDoor
+  - WoodTower
+  - StoneTower
+  - MagicTower
+  - Cactus
+  - Bush
+  - BushM
+  - Tree
+  - TreeM
+  - ThornBush
+  - ThornBushM
+  - UI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - TileMapFloor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

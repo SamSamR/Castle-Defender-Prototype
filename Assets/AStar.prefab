@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7339246201168730395
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7339246201168730399}
+  - component: {fileID: 7339246201168730398}
+  - component: {fileID: 7339246201168730393}
+  m_Layer: 0
+  m_Name: AStar
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7339246201168730399
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7339246201168730395}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1243.125, y: 579.375, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7339246201168730398
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7339246201168730395}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d60156d4abd54648a967f0bb1c87a6f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Building:
+  - {fileID: 5894279223568584569, guid: b65edce6d4cab7e4c8cc8e021c01a71c, type: 3}
+  - {fileID: 752761920003910026, guid: f27ea0080d27d8242a38dc291ce59f65, type: 3}
+  - {fileID: 7573930454836134864, guid: 4839fcf69b5eac8478125699636554c4, type: 3}
+  - {fileID: 2701076786806591104, guid: 606f44344f4f48c4281ef8732141124f, type: 3}
+  - {fileID: 9125641150498878917, guid: 9bbd86eacc71ffc479fb5d2ca9843485, type: 3}
+  - {fileID: 8254182334140568310, guid: 4960a36f9fc76ea41a153ead773dcf51, type: 3}
+  - {fileID: 8148046506546084002, guid: 8fd1b6b78f5712344a448c691dc1e91d, type: 3}
+  - {fileID: 1387068732035011697, guid: 5d0401c31a4b16b4b97593c1a81c6e62, type: 3}
+  - {fileID: 7173192077124449636, guid: 35c88b9e281c5b943b7d7c756123def8, type: 3}
+  - {fileID: 1122806228480951316, guid: d85f0e183ceecd44f8f4f4da33ca69e6, type: 3}
+  - {fileID: 3864029954116904230, guid: fdba76e2f3fb395479856d84245633da, type: 3}
+  Units: []
+  EnviroTileMap: {fileID: 0}
+  FloorTileMap: {fileID: 0}
+  tiles:
+  - {fileID: 11400000, guid: c9ea7c83820ae3741a8f0b45114cd0e5, type: 2}
+  camera1: {fileID: 0}
+  mask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  currentEntity: {fileID: 0}
+--- !u!1839735485 &7339246201168730393
+Tilemap:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7339246201168730395}
+  m_Enabled: 1
+  m_Tiles: {}
+  m_AnimatedTiles: {}
+  m_TileAssetArray: []
+  m_TileSpriteArray: []
+  m_TileMatrixArray: []
+  m_TileColorArray: []
+  m_TileObjectToInstantiateArray: []
+  m_AnimationFrameRate: 1
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Origin: {x: 0, y: 0, z: 0}
+  m_Size: {x: 0, y: 0, z: 1}
+  m_TileAnchor: {x: 0.5, y: 0.5, z: 0}
+  m_TileOrientation: 0
+  m_TileOrientationMatrix:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1

@@ -1,0 +1,2096 @@
+fileFormatVersion: 2
+guid: f0943db5e2f02f240a9d6e97eb483270
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4897693972021590970
+    second: WoodWallTall
+  - first:
+      213: 4701961155145121697
+    second: WoodWallHole
+  - first:
+      213: 2009069702955718767
+    second: WoodWallShort
+  - first:
+      213: 2192065237560835746
+    second: WoodWallSide
+  - first:
+      213: 4668923591473058706
+    second: StoneWallTall
+  - first:
+      213: 4868278751292107850
+    second: StoneWallTallSide
+  - first:
+      213: -859514092022457972
+    second: StoneWallShort
+  - first:
+      213: 5125875089390454194
+    second: StoneWallShortSide
+  - first:
+      213: -5557507029193180946
+    second: StoneWallTop
+  - first:
+      213: -2221510337166990485
+    second: WoodTowerTop
+  - first:
+      213: 4738936888740110560
+    second: StoneTowerTop
+  - first:
+      213: -6067022212028992093
+    second: MagicTowerTop
+  - first:
+      213: 7376471918693365493
+    second: MoatFrontSingle
+  - first:
+      213: -5980492767093217081
+    second: MoatFrontSide
+  - first:
+      213: -4804763113503368525
+    second: MoatFrontMiddle
+  - first:
+      213: 6979576808800163713
+    second: MoatFrontRight
+  - first:
+      213: -874953405896544313
+    second: WoodWallTallBreak1
+  - first:
+      213: 5010029181586565777
+    second: WoodWallHoleBreak1
+  - first:
+      213: -3222247919130838555
+    second: WoodWallShortBreak1
+  - first:
+      213: -4531842692831823646
+    second: WoodWallSideBreak1
+  - first:
+      213: 9030403957225222259
+    second: StoneWallTallBreak1
+  - first:
+      213: -8287358506823858082
+    second: StoneWallTallSideBreak1
+  - first:
+      213: 1926883490903634515
+    second: StoneWallShortBreak1
+  - first:
+      213: 3537772813790968379
+    second: StoneWallShortSideBreak1
+  - first:
+      213: -8454727978274419017
+    second: StoneWallTopBreak1
+  - first:
+      213: -78882532419177853
+    second: WoodTowerBottom
+  - first:
+      213: -4048092428062892682
+    second: StoneTowerBottom
+  - first:
+      213: -6602865331235419562
+    second: MagicTowerBottom
+  - first:
+      213: -790958187918730614
+    second: Castle_Pallet_28
+  - first:
+      213: 7630614920757123950
+    second: Castle_Pallet_29
+  - first:
+      213: -5255840162919703979
+    second: MoatSingleCorner
+  - first:
+      213: 7148872262303410241
+    second: MoatCorner
+  - first:
+      213: 6388457869538594859
+    second: WoodWallTallBreak2
+  - first:
+      213: -2103230804896902235
+    second: WoodWallHoleBreak2
+  - first:
+      213: 3243842801286712802
+    second: WoodWallShortBreak2
+  - first:
+      213: 1342462984139822558
+    second: WoodWallSideBreak2
+  - first:
+      213: -7592098922362010547
+    second: StoneWallTallBreak2
+  - first:
+      213: 7964105856658454065
+    second: StoneWallTallSideBreak2
+  - first:
+      213: 1502710980083230730
+    second: StoneWallShortBreak2
+  - first:
+      213: -3090254110060404380
+    second: StoneWallShortSideBreak2
+  - first:
+      213: -3912714434869131893
+    second: StoneWallTopBreak2
+  - first:
+      213: -6095090012572526036
+    second: WoodTowerBottomBreak1
+  - first:
+      213: 8837025901839062807
+    second: StoneTowerBottomBreak1
+  - first:
+      213: 9179451795538134591
+    second: MagicTowerBottomBreak1
+  - first:
+      213: 5921408475008525730
+    second: Castle_Pallet_44
+  - first:
+      213: -8910128011872138706
+    second: MoatSideTop
+  - first:
+      213: 7851109324903497866
+    second: WoodWallTallBreak3
+  - first:
+      213: -6464644795007741655
+    second: WoodWallHoleBreak3
+  - first:
+      213: 5172559609884983825
+    second: WoodWallShortBreak3
+  - first:
+      213: -6756333651327302201
+    second: WoodWallSideBreak3
+  - first:
+      213: -3973285854410438914
+    second: StoneWallTallBreak3
+  - first:
+      213: -7789329375343815165
+    second: StoneWallTallSideBreak3
+  - first:
+      213: -4979427777343167263
+    second: StoneWallShortBreak3
+  - first:
+      213: 7884159463483261839
+    second: StoneWallShortSideBreak3
+  - first:
+      213: 7804291397644674672
+    second: StoneWallTopBreak3
+  - first:
+      213: -5206719602106537645
+    second: WoodTowerBottomBreak2
+  - first:
+      213: 2508943639283667926
+    second: StoneTowerBottomBreak2
+  - first:
+      213: -7748119092790798669
+    second: MagicTowerBottomBreak2
+  - first:
+      213: 6223692548595115059
+    second: MoatSideMiddle
+  - first:
+      213: 5008961152348374719
+    second: WoodWallBroken
+  - first:
+      213: -3653352961396559905
+    second: WoodWallSideBroken
+  - first:
+      213: 4787144158521885340
+    second: StoneWallTallBroken
+  - first:
+      213: -4734186847477201386
+    second: StoneWallTallSideBroken
+  - first:
+      213: -2581961122559330928
+    second: StoneWallShortBroken
+  - first:
+      213: 2358201741603275053
+    second: StoneWallShortSideBroken
+  - first:
+      213: 7456577056896951525
+    second: StoneWallTopBroken
+  - first:
+      213: 1883062188293815354
+    second: WoodTowerBottomBreak3
+  - first:
+      213: 8734519560759465027
+    second: StoneTowerBottomBreak3
+  - first:
+      213: 109202462095094600
+    second: MagicTowerBottomBreak3
+  - first:
+      213: 840847358575014036
+    second: MoatSideBottom
+  - first:
+      213: -7408894323900079345
+    second: DoorWay
+  - first:
+      213: -784542449823712061
+    second: WoodenDoor
+  - first:
+      213: 8835966557841020635
+    second: ReenforcedDoor
+  - first:
+      213: 7530283473584827601
+    second: WoodFloor
+  - first:
+      213: 3367462402365750462
+    second: WoodTowerBottomBroken
+  - first:
+      213: 1981783458274737513
+    second: StoneTowerBottomBroken
+  - first:
+      213: -8577690546379166282
+    second: MagicTowerBottomBroken
+  - first:
+      213: -27958078437379018
+    second: WoodenDoorBreak1
+  - first:
+      213: -6123241715975549721
+    second: ReenforcedDoorBreak1
+  - first:
+      213: 4530406451680223919
+    second: WoodenDoorBreak2
+  - first:
+      213: -3254431393497229911
+    second: ReenforcedDoorBreak2
+  - first:
+      213: -1328407474823013921
+    second: WoodenDoorBreak3
+  - first:
+      213: 7710232719565512727
+    second: ReenforcedDoorBreak3
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WoodWallTall
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 538
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 5, z: 3, w: 8}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644c4131845e70cb0800000000000000
+      internalID: -4897693972021590970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodWallHole
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 538
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af3c1032c8b04140800000000000000
+      internalID: 4701961155145121697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodWallShort
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 538
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68dca51046a1eb10800000000000000
+      internalID: 2009069702955718767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodWallSide
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 538
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aebb4138b7cb6e10800000000000000
+      internalID: 2192065237560835746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneWallTall
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 538
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2935139f4495bc040800000000000000
+      internalID: 4668923591473058706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneWallTallSide
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 538
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c29562bb99f8340800000000000000
+      internalID: 4868278751292107850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneWallShort
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 538
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c891f89bc746214f0800000000000000
+      internalID: -859514092022457972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneWallShortSide
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 538
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5442a5c34c22740800000000000000
+      internalID: 5125875089390454194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneWallTop
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 540
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee834384dc4cfd2b0800000000000000
+      internalID: -5557507029193180946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTowerTop
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 538
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63ad405e1c9b21e0800000000000000
+      internalID: -2221510337166990485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTowerTop
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 538
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0695a0ef514c140800000000000000
+      internalID: 4738936888740110560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicTowerTop
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 538
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a57b9f417b9dcba0800000000000000
+      internalID: -6067022212028992093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoatFrontSingle
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 538
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6bc59b02e7e5660800000000000000
+      internalID: 7376471918693365493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoatFrontSide
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 538
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8ad9ba385010da0800000000000000
+      internalID: -5980492767093217081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoatFrontMiddle
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 538
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba5bbda76d025db0800000000000000
+      internalID: -4804763113503368525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoatFrontRight
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 538
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1879613d0207cd060800000000000000
+      internalID: 6979576808800163713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodWallTallBreak1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 474
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfa486538a8bd3f0800000000000000
+      internalID: -874953405896544313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodWallHoleBreak1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 474
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19aeec21ff2378540800000000000000
+      internalID: 5010029181586565777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodWallShortBreak1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 474
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9f6f9f6964843d0800000000000000
+      internalID: -3222247919130838555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodWallSideBreak1
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 474
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e83fc3e419ab11c0800000000000000
+      internalID: -4531842692831823646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneWallTallBreak1
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 474
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370f0b0dd80725d70800000000000000
+      internalID: 9030403957225222259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneWallTallSideBreak1
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 474
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58c37aa8536dfc80800000000000000
+      internalID: -8287358506823858082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneWallShortBreak1
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 474
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35230ee635aadba10800000000000000
+      internalID: 1926883490903634515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneWallShortSideBreak1
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 474
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a7b0651a1b81130800000000000000
+      internalID: 3537772813790968379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneWallTopBreak1
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 474
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be8566e2b5caaa80800000000000000
+      internalID: -8454727978274419017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTowerBottom
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 474
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382fb2431c0c7eef0800000000000000
+      internalID: -78882532419177853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTowerBottom
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 474
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ddc57626942d7c0800000000000000
+      internalID: -4048092428062892682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicTowerBottom
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 474
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a88f7f6f8ed54a0800000000000000
+      internalID: -6602865331235419562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Pallet_28
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 474
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8adae008b3f505f0800000000000000
+      internalID: -790958187918730614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Pallet_29
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 474
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b168977d365e960800000000000000
+      internalID: 7630614920757123950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoatSingleCorner
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 474
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a90fce7318f07b0800000000000000
+      internalID: -5255840162919703979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoatCorner
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 474
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148ec3b3275e53360800000000000000
+      internalID: 7148872262303410241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodWallTallBreak2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 410
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b209568b59c58a850800000000000000
+      internalID: 6388457869538594859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodWallHoleBreak2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 410
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a31671f9b2dfc2e0800000000000000
+      internalID: -2103230804896902235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodWallShortBreak2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 410
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed07e557d1740d20800000000000000
+      internalID: 3243842801286712802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodWallSideBreak2
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 410
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5d3cda8f261a210800000000000000
+      internalID: 1342462984139822558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneWallTallBreak2
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 410
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d448cf8314273a690800000000000000
+      internalID: -7592098922362010547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneWallTallSideBreak2
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 410
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1363cbbb410368e60800000000000000
+      internalID: 7964105856658454065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneWallShortBreak2
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 410
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08a0f7bca3bad410800000000000000
+      internalID: 1502710980083230730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneWallShortSideBreak2
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 410
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461a82082463d15d0800000000000000
+      internalID: -3090254110060404380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneWallTopBreak2
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 410
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b850512b3fe33b9c0800000000000000
+      internalID: -3912714434869131893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTowerBottomBreak1
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 410
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a559e3de3e96ba0800000000000000
+      internalID: -6095090012572526036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTowerBottomBreak1
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 410
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7171b06bc3c63aa70800000000000000
+      internalID: 8837025901839062807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicTowerBottomBreak1
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 410
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f364fd1f5c6f36f70800000000000000
+      internalID: 9179451795538134591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Pallet_44
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 410
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5eed292a11d2250800000000000000
+      internalID: 5921408475008525730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoatSideTop
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 409
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a8a15f7cdd85480800000000000000
+      internalID: -8910128011872138706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodWallTallBreak3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 346
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8041a3855eb4fc60800000000000000
+      internalID: 7851109324903497866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodWallHoleBreak3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 346
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9215c726fc7f846a0800000000000000
+      internalID: -6464644795007741655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodWallShortBreak3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 346
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1124abe4f8f98c740800000000000000
+      internalID: 5172559609884983825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodWallSideBreak3
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 346
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c54e98375eac32a0800000000000000
+      internalID: -6756333651327302201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneWallTallBreak3
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 346
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef608c8119d0cd8c0800000000000000
+      internalID: -3973285854410438914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneWallTallSideBreak3
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 346
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306dd18e33eb6e390800000000000000
+      internalID: -7789329375343815165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneWallShortBreak3
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 346
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e46fb291d485eab0800000000000000
+      internalID: -4979427777343167263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneWallShortSideBreak3
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 346
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83447d82492a6d60800000000000000
+      internalID: 7884159463483261839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneWallTopBreak3
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 346
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0766f306da96e4c60800000000000000
+      internalID: 7804291397644674672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTowerBottomBreak2
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 346
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3596067bb140eb7b0800000000000000
+      internalID: -5206719602106537645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTowerBottomBreak2
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 346
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d39afc62fe81d220800000000000000
+      internalID: 2508943639283667926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicTowerBottomBreak2
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 346
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b658c48cb6297490800000000000000
+      internalID: -7748119092790798669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoatSideMiddle
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 345
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334e14ef56ffe5650800000000000000
+      internalID: 6223692548595115059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodWallBroken
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 282
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6c47321a7638540800000000000000
+      internalID: 5008961152348374719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodWallSideBroken
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 282
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf26d086deac4dc0800000000000000
+      internalID: -3653352961396559905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneWallTallBroken
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 282
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c928841bf3a5f6240800000000000000
+      internalID: 4787144158521885340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneWallTallSideBroken
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 282
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6168bcf152acc4eb0800000000000000
+      internalID: -4734186847477201386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneWallShortBroken
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 282
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0957bf1f9080b2cd0800000000000000
+      internalID: -2581961122559330928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneWallShortSideBroken
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 282
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2188fc5df30ab020800000000000000
+      internalID: 2358201741603275053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneWallTopBroken
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 282
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4abac93551b7760800000000000000
+      internalID: 7456577056896951525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTowerBottomBreak3
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 282
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cf837551bf12a10800000000000000
+      internalID: 1883062188293815354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTowerBottomBreak3
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 282
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344d4c6534f373970800000000000000
+      internalID: 8734519560759465027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicTowerBottomBreak3
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 282
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843b6c98f07f38100800000000000000
+      internalID: 109202462095094600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoatSideBottom
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 281
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4907036b73a4bab00800000000000000
+      internalID: 840847358575014036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorWay
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 209
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03278dcdd15e2990800000000000000
+      internalID: -7408894323900079345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenDoor
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 209
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccfa0f6ccebc15f0800000000000000
+      internalID: -784542449823712061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReenforcedDoor
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 210
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd65857f4c8af9a70800000000000000
+      internalID: 8835966557841020635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodFloor
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 209
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dca40d0ce0f08860800000000000000
+      internalID: 7530283473584827601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTowerBottomBroken
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 218
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc7e7f9631abbe20800000000000000
+      internalID: 3367462402365750462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTowerBottomBroken
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 218
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96df53c2e85b08b10800000000000000
+      internalID: 1981783458274737513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicTowerBottomBroken
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 218
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bde7d505ebe5f880800000000000000
+      internalID: -8577690546379166282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenDoorBreak1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 145
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634332a964cac9ff0800000000000000
+      internalID: -27958078437379018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReenforcedDoorBreak1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 145
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec8c650a10e50ba0800000000000000
+      internalID: -6123241715975549721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenDoorBreak2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 81
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2a9882aac3fde30800000000000000
+      internalID: 4530406451680223919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReenforcedDoorBreak2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 81
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5d7bce3efe5d2d0800000000000000
+      internalID: -3254431393497229911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenDoorBreak3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 17
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9533a907c809de0800000000000000
+      internalID: -1328407474823013921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReenforcedDoorBreak3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 17
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710eb41decf300b60800000000000000
+      internalID: 7710232719565512727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d14e79b0904a36a4ea87f82c3c8c8d1c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

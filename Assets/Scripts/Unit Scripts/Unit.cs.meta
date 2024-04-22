@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 878635c8752ac7640be0bb9da1c0ce84
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mapManager: {fileID: 3761983091819815426, guid: aef3b4bd12915da48a9dbb14be37e0e3,
+      type: 3}
+  - RangeTile: {fileID: 11400000, guid: 6009f5ecbc38e374b9efd9e10f19a4d8, type: 2}
+  - MoveTile: {fileID: 11400000, guid: ca9c48a80020a1b4d961198da87476a9, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
